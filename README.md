@@ -1,3 +1,3 @@
-# Mock Up Personal Site
+# Personal Site Mock Up
 
 Protfolio website
