@@ -4,11 +4,11 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
 
 import App from './App';
-import AboutPage from './pages/about';
-import ErrorPage from './pages/error';
-import PortfolioPage from './pages/portfolio';
-import ResumePage from './pages/resume';
-import ContactPage from './pages/contact';
+import AboutPage from './pages/About';
+import ErrorPage from './pages/Error';
+import PortfolioPage from './pages/Portfolio';
+import ResumePage from './pages/Resume';
+import ContactPage from './pages/Contact';
 
 const router = createBrowserRouter([
     {
