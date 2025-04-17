@@ -6,6 +6,7 @@ export default function ContactPage() {
             <div className="contactDiv">
                 <div>
                     <h1>Contact Me</h1>
+                    <h2>*FORM DOES NOT WORK YET*</h2>
                 </div>
                 <form>
                     <div className="mb-3 d-flex flex-column contactI">
